@@ -1,4 +1,4 @@
-# models_from_scratch
+# Supervised Learning
 Data Science/Machine Learning Models built from scratch for creating a deep theoretical and intuitive understanding
 
 These notebooks contain Machine Learning models that were coded from scratch using mainly numpy arrays. This project was undertaken in order to give me a deep understanding of machine learning models and how they work. 
